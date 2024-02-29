@@ -1,0 +1,17 @@
+names:
+- ang
+- anx
+- emb
+- hap
+- nor
+- pai
+- anx
+
+nc: 7
+
+path: /home/KDT-admin/data/yolo_all/
+train: /home/KDT-admin/data/yolo_all/train
+test: /home/KDT-admin/data/yolo_all/test
+val: /home/KDT-admin/data/yolo_all/val
+
+

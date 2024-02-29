@@ -1,0 +1,6 @@
+train: /home/KDT-admin/data/yolo_all/train
+val: /home/KDT-admin/data/yolo_all/val
+test: /home/KDT-admin/data/yolo_all/test
+
+nc: 7
+names: ['anger', 'anxiety', 'happy', 'normal', 'embarrass', 'sad', 'pain']

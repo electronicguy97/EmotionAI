@@ -1,0 +1,700 @@
+1/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.147323 - train_test2_loss : 1.976084
+1/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.150625 - val_test2_loss : 1.972762
+
+Epoch 1 complete in. 6m 45s  and with a learning rate of 0.0001
+------------
+Epoch 2/100
+------------
+2/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.315278 - train_test2_loss : 1.691373
+2/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.421504 - val_test2_loss : 1.520906
+
+Epoch 2 complete in. 6m 49s  and with a learning rate of 0.0001
+------------
+Epoch 3/100
+------------
+3/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.456803 - train_test2_loss : 1.391552
+3/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.511144 - val_test2_loss : 1.277506
+
+Epoch 3 complete in. 6m 42s  and with a learning rate of 0.0001
+------------
+Epoch 4/100
+------------
+4/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.501691 - train_test2_loss : 1.282546
+4/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.523635 - val_test2_loss : 1.253263
+
+Epoch 4 complete in. 6m 42s  and with a learning rate of 0.0001
+------------
+Epoch 5/100
+------------
+5/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.514157 - train_test2_loss : 1.240000
+5/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.527308 - val_test2_loss : 1.243748
+
+Epoch 5 complete in. 6m 45s  and with a learning rate of 0.0001
+------------
+Epoch 6/100
+------------
+6/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.537060 - train_test2_loss : 1.199118
+6/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.542493 - val_test2_loss : 1.209990
+
+Epoch 6 complete in. 6m 46s  and with a learning rate of 0.0001
+------------
+Epoch 7/100
+------------
+7/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.544260 - train_test2_loss : 1.170996
+7/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.556454 - val_test2_loss : 1.209419
+
+Epoch 7 complete in. 6m 43s  and with a learning rate of 0.0001
+------------
+Epoch 8/100
+------------
+8/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.559528 - train_test2_loss : 1.128074
+8/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.571149 - val_test2_loss : 1.189841
+
+Epoch 8 complete in. 6m 52s  and with a learning rate of 0.0001
+------------
+Epoch 9/100
+------------
+9/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.572574 - train_test2_loss : 1.100170
+9/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.572128 - val_test2_loss : 1.161294
+
+Epoch 9 complete in. 6m 47s  and with a learning rate of 0.0001
+------------
+Epoch 10/100
+------------
+10/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.576295 - train_test2_loss : 1.081494
+10/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.577761 - val_test2_loss : 1.142633
+
+Epoch 10 complete in. 6m 55s  and with a learning rate of 1e-05
+------------
+Epoch 11/100
+------------
+11/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.624807 - train_test2_loss : 0.964874
+11/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.602743 - val_test2_loss : 1.122759
+
+Epoch 11 complete in. 6m 46s  and with a learning rate of 1e-05
+------------
+Epoch 12/100
+------------
+12/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.641380 - train_test2_loss : 0.919162
+12/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.603233 - val_test2_loss : 1.111617
+
+Epoch 12 complete in. 6m 43s  and with a learning rate of 1e-05
+------------
+Epoch 13/100
+------------
+13/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.655054 - train_test2_loss : 0.887054
+13/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.614009 - val_test2_loss : 1.091132
+
+Epoch 13 complete in. 6m 46s  and with a learning rate of 1e-05
+------------
+Epoch 14/100
+------------
+14/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.659306 - train_test2_loss : 0.873313
+14/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.612540 - val_test2_loss : 1.092015
+
+Epoch 14 complete in. 6m 46s  and with a learning rate of 1e-05
+------------
+Epoch 15/100
+------------
+15/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.672014 - train_test2_loss : 0.847918
+15/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.611560 - val_test2_loss : 1.105974
+
+Epoch 15 complete in. 6m 49s  and with a learning rate of 1e-05
+------------
+Epoch 16/100
+------------
+16/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.680663 - train_test2_loss : 0.821936
+16/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.619887 - val_test2_loss : 1.110709
+
+Epoch 16 complete in. 6m 46s  and with a learning rate of 1e-05
+------------
+Epoch 17/100
+------------
+17/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.675203 - train_test2_loss : 0.825199
+17/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.618663 - val_test2_loss : 1.118507
+
+Epoch 17 complete in. 6m 47s  and with a learning rate of 1e-05
+------------
+Epoch 18/100
+------------
+18/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.683514 - train_test2_loss : 0.804907
+18/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.613764 - val_test2_loss : 1.182824
+
+Epoch 18 complete in. 6m 52s  and with a learning rate of 1e-05
+------------
+Epoch 19/100
+------------
+19/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.698492 - train_test2_loss : 0.780457
+19/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.617193 - val_test2_loss : 1.227265
+
+Epoch 19 complete in. 6m 51s  and with a learning rate of 1e-05
+------------
+Epoch 20/100
+------------
+20/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.694724 - train_test2_loss : 0.776815
+20/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.627235 - val_test2_loss : 1.210010
+
+Epoch 20 complete in. 6m 50s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 21/100
+------------
+21/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.709316 - train_test2_loss : 0.744141
+21/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624051 - val_test2_loss : 1.222592
+
+Epoch 21 complete in. 6m 54s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 22/100
+------------
+22/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717578 - train_test2_loss : 0.732443
+22/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.622826 - val_test2_loss : 1.229153
+
+Epoch 22 complete in. 6m 45s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 23/100
+------------
+23/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.710814 - train_test2_loss : 0.747091
+23/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.626010 - val_test2_loss : 1.209768
+
+Epoch 23 complete in. 6m 49s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 24/100
+------------
+24/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718013 - train_test2_loss : 0.730532
+24/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624541 - val_test2_loss : 1.246382
+
+Epoch 24 complete in. 6m 46s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 25/100
+------------
+25/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.716902 - train_test2_loss : 0.730284
+25/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625276 - val_test2_loss : 1.234176
+
+Epoch 25 complete in. 6m 48s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 26/100
+------------
+26/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.712215 - train_test2_loss : 0.736640
+26/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.225946
+
+Epoch 26 complete in. 6m 44s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 27/100
+------------
+27/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.711490 - train_test2_loss : 0.734293
+27/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.233774
+
+Epoch 27 complete in. 6m 43s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 28/100
+------------
+28/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.709654 - train_test2_loss : 0.737596
+28/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.627480 - val_test2_loss : 1.225425
+
+Epoch 28 complete in. 6m 45s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 29/100
+------------
+29/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721395 - train_test2_loss : 0.710195
+29/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.621602 - val_test2_loss : 1.244863
+
+Epoch 29 complete in. 6m 44s  and with a learning rate of 1.0000000000000002e-06
+------------
+Epoch 30/100
+------------
+30/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720574 - train_test2_loss : 0.711906
+30/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624051 - val_test2_loss : 1.255669
+
+Epoch 30 complete in. 6m 45s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 31/100
+------------
+31/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718690 - train_test2_loss : 0.712905
+31/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.623071 - val_test2_loss : 1.255130
+
+Epoch 31 complete in. 6m 47s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 32/100
+------------
+32/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718931 - train_test2_loss : 0.714252
+32/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.623316 - val_test2_loss : 1.251585
+
+Epoch 32 complete in. 6m 43s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 33/100
+------------
+33/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720622 - train_test2_loss : 0.714616
+33/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.248939
+
+Epoch 33 complete in. 6m 43s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 34/100
+------------
+34/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723666 - train_test2_loss : 0.710221
+34/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624296 - val_test2_loss : 1.250680
+
+Epoch 34 complete in. 6m 44s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 35/100
+------------
+35/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721395 - train_test2_loss : 0.718061
+35/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.249754
+
+Epoch 35 complete in. 6m 46s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 36/100
+------------
+36/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719124 - train_test2_loss : 0.715261
+36/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.249909
+
+Epoch 36 complete in. 6m 46s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 37/100
+------------
+37/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717917 - train_test2_loss : 0.719706
+37/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625276 - val_test2_loss : 1.248206
+
+Epoch 37 complete in. 6m 52s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 38/100
+------------
+38/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720574 - train_test2_loss : 0.711223
+38/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624541 - val_test2_loss : 1.247668
+
+Epoch 38 complete in. 6m 47s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 39/100
+------------
+39/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717047 - train_test2_loss : 0.717998
+39/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624541 - val_test2_loss : 1.249920
+
+Epoch 39 complete in. 6m 42s  and with a learning rate of 1.0000000000000002e-07
+------------
+Epoch 40/100
+------------
+40/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.724440 - train_test2_loss : 0.707494
+40/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.252255
+
+Epoch 40 complete in. 6m 38s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 41/100
+------------
+41/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723956 - train_test2_loss : 0.709670
+41/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625276 - val_test2_loss : 1.252304
+
+Epoch 41 complete in. 6m 23s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 42/100
+------------
+42/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717675 - train_test2_loss : 0.713814
+42/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625276 - val_test2_loss : 1.252398
+
+Epoch 42 complete in. 6m 26s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 43/100
+------------
+43/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718158 - train_test2_loss : 0.715264
+43/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625276 - val_test2_loss : 1.252381
+
+Epoch 43 complete in. 6m 29s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 44/100
+------------
+44/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.715549 - train_test2_loss : 0.725168
+44/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.251921
+
+Epoch 44 complete in. 6m 31s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 45/100
+------------
+45/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720912 - train_test2_loss : 0.714976
+45/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624541 - val_test2_loss : 1.252138
+
+Epoch 45 complete in. 6m 26s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 46/100
+------------
+46/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.713858 - train_test2_loss : 0.719017
+46/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.251936
+
+Epoch 46 complete in. 6m 29s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 47/100
+------------
+47/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718690 - train_test2_loss : 0.716193
+47/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624541 - val_test2_loss : 1.251902
+
+Epoch 47 complete in. 6m 24s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 48/100
+------------
+48/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720236 - train_test2_loss : 0.712724
+48/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.252122
+
+Epoch 48 complete in. 6m 27s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 49/100
+------------
+49/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718835 - train_test2_loss : 0.715083
+49/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.624786 - val_test2_loss : 1.251982
+
+Epoch 49 complete in. 6m 32s  and with a learning rate of 1.0000000000000004e-08
+------------
+Epoch 50/100
+------------
+50/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.716419 - train_test2_loss : 0.717007
+50/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251405
+
+Epoch 50 complete in. 6m 27s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 51/100
+------------
+51/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723860 - train_test2_loss : 0.708842
+51/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251407
+
+Epoch 51 complete in. 6m 33s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 52/100
+------------
+52/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719898 - train_test2_loss : 0.718690
+52/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251389
+
+Epoch 52 complete in. 6m 30s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 53/100
+------------
+53/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721009 - train_test2_loss : 0.713353
+53/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251382
+
+Epoch 53 complete in. 6m 27s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 54/100
+------------
+54/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720767 - train_test2_loss : 0.712693
+54/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251385
+
+Epoch 54 complete in. 6m 27s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 55/100
+------------
+55/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718835 - train_test2_loss : 0.712298
+55/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251388
+
+Epoch 55 complete in. 6m 19s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 56/100
+------------
+56/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718738 - train_test2_loss : 0.715058
+56/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251386
+
+Epoch 56 complete in. 6m 32s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 57/100
+------------
+57/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.715211 - train_test2_loss : 0.723928
+57/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251379
+
+Epoch 57 complete in. 6m 39s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 58/100
+------------
+58/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.724729 - train_test2_loss : 0.709066
+58/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251373
+
+Epoch 58 complete in. 6m 38s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 59/100
+------------
+59/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723280 - train_test2_loss : 0.712310
+59/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251380
+
+Epoch 59 complete in. 6m 34s  and with a learning rate of 1.0000000000000005e-09
+------------
+Epoch 60/100
+------------
+60/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.724488 - train_test2_loss : 0.703500
+60/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 60 complete in. 6m 39s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 61/100
+------------
+61/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719608 - train_test2_loss : 0.710753
+61/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 61 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 62/100
+------------
+62/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719656 - train_test2_loss : 0.715776
+62/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 62 complete in. 6m 2s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 63/100
+------------
+63/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718351 - train_test2_loss : 0.715499
+63/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 63 complete in. 5m 58s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 64/100
+------------
+64/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723280 - train_test2_loss : 0.708049
+64/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 64 complete in. 6m 5s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 65/100
+------------
+65/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722313 - train_test2_loss : 0.711994
+65/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 65 complete in. 5m 59s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 66/100
+------------
+66/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722024 - train_test2_loss : 0.711808
+66/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 66 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 67/100
+------------
+67/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.724246 - train_test2_loss : 0.711063
+67/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 67 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 68/100
+------------
+68/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719704 - train_test2_loss : 0.712799
+68/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 68 complete in. 5m 60s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 69/100
+------------
+69/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720477 - train_test2_loss : 0.714763
+69/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 69 complete in. 6m 3s  and with a learning rate of 1.0000000000000006e-10
+------------
+Epoch 70/100
+------------
+70/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720767 - train_test2_loss : 0.712043
+70/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 70 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 71/100
+------------
+71/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718206 - train_test2_loss : 0.719082
+71/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 71 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 72/100
+------------
+72/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720429 - train_test2_loss : 0.711007
+72/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 72 complete in. 6m 4s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 73/100
+------------
+73/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720767 - train_test2_loss : 0.711606
+73/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 73 complete in. 5m 57s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 74/100
+------------
+74/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720091 - train_test2_loss : 0.712914
+74/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 74 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 75/100
+------------
+75/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.728643 - train_test2_loss : 0.697834
+75/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 75 complete in. 5m 60s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 76/100
+------------
+76/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.715549 - train_test2_loss : 0.715876
+76/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 76 complete in. 6m 0s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 77/100
+------------
+77/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721540 - train_test2_loss : 0.706982
+77/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 77 complete in. 6m 0s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 78/100
+------------
+78/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722845 - train_test2_loss : 0.710043
+78/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 78 complete in. 5m 57s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 79/100
+------------
+79/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723376 - train_test2_loss : 0.709661
+79/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 79 complete in. 6m 2s  and with a learning rate of 1.0000000000000006e-11
+------------
+Epoch 80/100
+------------
+80/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.725116 - train_test2_loss : 0.703798
+80/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 80 complete in. 6m 4s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 81/100
+------------
+81/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.719753 - train_test2_loss : 0.722773
+81/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 81 complete in. 6m 1s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 82/100
+------------
+82/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721106 - train_test2_loss : 0.710970
+82/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 82 complete in. 5m 60s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 83/100
+------------
+83/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721444 - train_test2_loss : 0.709936
+83/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 83 complete in. 6m 2s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 84/100
+------------
+84/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.720043 - train_test2_loss : 0.709245
+84/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 84 complete in. 6m 6s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 85/100
+------------
+85/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722410 - train_test2_loss : 0.712454
+85/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 85 complete in. 6m 3s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 86/100
+------------
+86/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718883 - train_test2_loss : 0.716033
+86/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 86 complete in. 6m 18s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 87/100
+------------
+87/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718351 - train_test2_loss : 0.722163
+87/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 87 complete in. 6m 30s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 88/100
+------------
+88/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717723 - train_test2_loss : 0.716611
+88/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 88 complete in. 6m 30s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 89/100
+------------
+89/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717337 - train_test2_loss : 0.712438
+89/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 89 complete in. 6m 44s  and with a learning rate of 1.0000000000000006e-12
+------------
+Epoch 90/100
+------------
+90/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721830 - train_test2_loss : 0.712460
+90/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 90 complete in. 6m 42s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 91/100
+------------
+91/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.724584 - train_test2_loss : 0.706477
+91/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 91 complete in. 6m 42s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 92/100
+------------
+92/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721395 - train_test2_loss : 0.713930
+92/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 92 complete in. 6m 24s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 93/100
+------------
+93/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723376 - train_test2_loss : 0.704925
+93/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 93 complete in. 6m 37s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 94/100
+------------
+94/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.718883 - train_test2_loss : 0.715853
+94/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 94 complete in. 6m 31s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 95/100
+------------
+95/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.717047 - train_test2_loss : 0.720832
+95/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 95 complete in. 6m 39s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 96/100
+------------
+96/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.723232 - train_test2_loss : 0.704828
+96/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 96 complete in. 6m 41s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 97/100
+------------
+97/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722942 - train_test2_loss : 0.708898
+97/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251393
+
+Epoch 97 complete in. 6m 43s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 98/100
+------------
+98/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.714196 - train_test2_loss : 0.717284
+98/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 98 complete in. 6m 44s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 99/100
+------------
+99/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.721250 - train_test2_loss : 0.708932
+99/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 99 complete in. 6m 41s  and with a learning rate of 1.0000000000000007e-13
+------------
+Epoch 100/100
+------------
+100/100 - train_test2 step : 20700/20700 - train_test2_accuracy : 0.722603 - train_test2_loss : 0.708355
+100/100 - val_test2 step : 4140/4140 - val_test2_accuracy : 0.625031 - val_test2_loss : 1.251392
+
+Epoch 100 complete in. 6m 43s  and with a learning rate of 1.0000000000000008e-14
+------------
+Training complete in 651m 41s
+Best val accuracy: 0.000000
